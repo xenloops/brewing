@@ -6,3 +6,12 @@
 1. Hold the hydrometer by the top and slowly lower it into the test tube. Just before letting go, twist it so that it slowly spins. This flings any bubbles clinging to the hydrometer off so it doesn't float higher than it should. Make sure the test jar is level so the hydrometer does not touch the sides.
 1. Note the level at which the hydrometer emerges from the liquid. Take the reading at the bottom of the meniscus.
 1. Check your specific brewing instructions for which scale to use and what readings to look for.
+
+## What's with those scales?
+
+The scales your hydrometer should show are:
+
+* Specific gravity:
+* Potential alcohol:
+* Brix:
+
